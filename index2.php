@@ -43,6 +43,7 @@ if(isset($_POST['upload']))
 	<link rel="stylesheet" type="text/css" href="style1.css">
 </head>
 <body>
+	<p>sczghjdfghjdfghjcvjkcvb</p>
 <div id="content">
 
 <?php
